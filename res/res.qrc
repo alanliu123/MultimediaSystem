@@ -2,5 +2,7 @@
     <qresource prefix="/res/img"/>
     <qresource prefix="/">
         <file>img/logo.png</file>
+        <file>img/man.png</file>
+        <file>img/background.jpg</file>
     </qresource>
 </RCC>
